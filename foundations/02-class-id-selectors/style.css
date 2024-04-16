@@ -9,10 +9,10 @@
 
 #forth{
     background-color: rgb(12, 247, 12);
-    font-size: 24px;
+    /*font-size: 24px;*/
     font-weight: bold;
 }
 
-#special{
+.special{
     font-size: 24px;
 }
